@@ -13,6 +13,9 @@ Edit the default app nginx config, replacing it with the config in nginx.cong
 ### HTTP Port
 Change the container HTTP port to 5000
 
+### HTTPS
+Enable https 
+
 ### Environment Variables
 Add the following environment variables
 
